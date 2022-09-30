@@ -1,6 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/futuristic-ai-technology-template-vector-disruptive-technology-blog-banner_53876-112231.jpg?w=1060&t=st=1664557152~exp=1664557752~hmac=42179c46bd51aa591d1f0e662d0492e4650d68a751c4f2ed348016f68d12edd9)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nguyen Tien Dat</h1>
 <h3 align="center">I'am Full Stack Web developer and AI engineer.</h3>
+<img align="right" alt="Coding" width="400" src="https://scontent.fvca1-4.fna.fbcdn.net/v/t39.30808-6/283408147_1648704942162350_6172931479944266823_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hYVXezNwWxwAX8pK7df&_nc_ht=scontent.fvca1-4.fna&oh=00_AT_KesVvqtfocLBpmiMitvpS6i9yMMkAqVB4l9_UM4745Q&oe=633CA976">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyendat2001&label=Profile%20views&color=0e75b6&style=flat" alt="nguyendat2001" /> </p>
 
