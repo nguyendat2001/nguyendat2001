@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/futuristic-ai-technology-template-vector-disruptive-technology-blog-banner_53876-112231.jpg?w=1060&t=st=1664557152~exp=1664557752~hmac=42179c46bd51aa591d1f0e662d0492e4650d68a751c4f2ed348016f68d12edd9)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nguyen Tien Dat</h1>
-<h3 align="center">I'am Full Stack Web developer and AI engineer.</h3>
+<h3 align="center">I'am Software Engineer.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyendat2001&label=Profile%20views&color=0e75b6&style=flat" alt="nguyendat2001" /> </p>
