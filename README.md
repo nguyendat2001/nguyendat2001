@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyendat2001&label=Profile%20views&color=0e75b6&style=flat" alt="nguyendat2001" /> </p>
 
-- 🌱 I’m currently learning **reactjs, FastAPI, pytorch**
+- 🌱 I’m currently Working as **Software Engineer**
 
 - 📫 How to reach me **dat01222860447@gmail.com**
 
